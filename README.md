@@ -3,7 +3,7 @@
 
 This is a amazing 3D Portfolio with React JS and Three.js. Also using Tailwind CSS, Framer Motion, React Title, email JS and React Three fiber.
 
-
+![image](https://user-images.githubusercontent.com/39830305/223785292-d7fa15b0-14eb-4e24-904e-6a7bbfb60c53.png)
 
 ## Features
 
